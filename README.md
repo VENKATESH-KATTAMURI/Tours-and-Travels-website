@@ -21,7 +21,7 @@ This project is a **Tours & Travels** web application, built with modern front-e
 
 - **HTML5** — Semantic markup for a solid structure  
 - **CSS3** — Responsive layouts and styling   
-- **JavaScript** — Interactive functionalities such as sliders, toggles, or form handling  
+- **JavaScript** — Interactive functionalities such as sliders, toggles, or form handling.
 
 ---
 
